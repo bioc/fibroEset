@@ -1,0 +1,11 @@
+Package: fibroEset
+Title: exprSet for Karaman et al. (2003) fibroblasts data
+Version: 1.3.0
+Date: 2006-06-02
+Author: Sylvia Merk
+Description: exprSet for Karaman et al. (2003) human, bonobo and gorilla fibroblasts data
+Maintainer: Sylvia Merk <merk@ibe.med.uni-muenchen.de>
+License: unknown
+Depends: Biobase (>= 1.11.12)
+biocViews: ExperimentData
+Packaged: Thu Jun  8 15:02:40 2006; stvjc
