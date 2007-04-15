@@ -36,6 +36,6 @@ colnames(xx) <- as.character(fibroEset$species)
 dim(xx)
 xx[1:5,1:5]
 fibroEset$species
-geneNames(fibroEset)[1:20]
+featureNames(fibroEset)[1:20]
 }
 \keyword{datasets}
