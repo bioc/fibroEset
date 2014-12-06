@@ -1,10 +1,10 @@
 Package: fibroEset
 Title: exprSet for Karaman et al. (2003) fibroblasts data
-Version: 1.9.0
+Version: 1.9.1
 Date: 2009-09-14
 Author: Sylvia Merk
 Description: exprSet for Karaman et al. (2003) human, bonobo and gorilla fibroblasts data
 Maintainer: Sylvia Merk <merk@ibe.med.uni-muenchen.de>
 License: LGPL
 Depends: Biobase (>= 2.5.5)
-biocViews: ExperimentData
+biocViews: ExperimentData, Genome, Homo_sapiens_Data, MicroarrayData, ChipOnChipData
